@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Escritorio\Progra 2\Tarea2\tarea2segundo proyecto\tarea2segundo proyecto\obj\Debug\tarea2segundo proyecto.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Progra 2\Tarea2\tarea2segundo proyecto\tarea2segundo proyecto\obj\Debug\tarea2segundo proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Progra 2\Tarea2\tarea2segundo proyecto\tarea2segundo proyecto\bin\Debug\tarea2segundo proyecto.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Progra 2\Tarea2\tarea2segundo proyecto\tarea2segundo proyecto\bin\Debug\tarea2segundo proyecto.exe
+C:\Users\Usuario\OneDrive\Escritorio\Progra 2\Tarea2\tarea2segundo proyecto\tarea2segundo proyecto\bin\Debug\tarea2segundo proyecto.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Progra 2\Tarea2\tarea2segundo proyecto\tarea2segundo proyecto\obj\Debug\tarea2segundo proyecto.exe
+C:\Users\Usuario\OneDrive\Escritorio\Progra 2\Tarea2\tarea2segundo proyecto\tarea2segundo proyecto\obj\Debug\tarea2segundo proyecto.pdb
